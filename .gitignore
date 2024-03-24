@@ -32,3 +32,4 @@ override.tf.json
 *.txt
 *tfplan*
 venv
+.terraform.lock.hcl
